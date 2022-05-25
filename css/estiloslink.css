@@ -1,0 +1,30 @@
+
+.sitiocontruc {
+	background-image: url('../img/sitioconstruccion.png');
+	height: 600px;
+    opacity: 60%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: cover;
+}
+
+.header-informatica {
+    background-image: url('../img/CarreraInformatica.jpg');
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: cover;
+    
+}
+
+footer .pie-carrera{
+    height:600px;
+    background-image: url('../img/footer-carrera.jpg');
+    background-position:center;
+    padding:60px 0;
+	background-color: rgb(100, 100, 100);
+	background-blend-mode: soft-light;
+}
+
